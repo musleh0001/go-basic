@@ -1,4 +1,4 @@
-<div style="text-align:center">
+<div align="center">
     <h1>Go Basic</h1>
 </div>
 
